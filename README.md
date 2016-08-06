@@ -1,7 +1,7 @@
 About
 =====================
 
-This is an example of building an immutable architecture. This practice is described in my [Applying Functional Principles in C#][L1] Pluralsight course.
+This is an example of building an immutable architecture. This practice is described in Vladimir Khorikov [Applying Functional Principles in C#][L1] Pluralsight course.
 
 Licence
 --------------
